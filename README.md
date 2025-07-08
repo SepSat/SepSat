@@ -66,7 +66,3 @@
 > I'm a hybrid of designer 🎨 and engineer 🔧 — from Interactive Design to full-blown ML/Cloud systems.
 >  
 > My cats are my code reviewers 🐱
-
----
-
-🛠️ Want a version带中文注释？需要我顺便帮你生成 `.md` 文件？我可以立即输出或发你 Markdown 源文件。只需说一声。
